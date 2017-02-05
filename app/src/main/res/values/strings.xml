@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Listing</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search for books</string>
+
+    <string name="no_books_to_show">No books to show.  Please search for a book by title or author!</string>
+    <string name="no_internet_connection">No internet connection.</string>
+</resources>
